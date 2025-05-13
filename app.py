@@ -1,7 +1,5 @@
 import streamlit as st
 
-def main():
-    st.title('prima app')
 
 import streamlit as st
 import pandas as pd
